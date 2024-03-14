@@ -1,0 +1,70 @@
+.titlebackground {
+  background-color: #c8a2c8;
+}
+
+.lilactitle {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  box-sizing: unset;
+  max-width: 40vh;
+  min-width: 10vh;
+}
+.purplecloudimg {
+  position: absolute;
+  width: 40%;
+  right: 60%;
+  top: 10%;
+}
+.purplecloudimg2 {
+  position: absolute;
+  width: 40%;
+  right: 0%;
+  top: 30%;
+}
+
+.catamaran {
+  font-family: 'Catamaran', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+h1 {
+  color: #56365c;
+}
+
+body {
+  background-color: #dcd0ff;
+}
+
+.flextryimg {
+  display: flex;
+  justify-content: center;
+}
+.image-stack {
+  display: grid;
+  position: relative;
+}
+.pfpimg {
+  position: relative;
+  border-radius: 50%;
+  height: 150px;
+}
+.crownpfp {
+  position: absolute;
+  height: 150px;
+  bottom: 50%;
+  left: 20%;
+}
+
+.helloworldimg {
+  border-right: solid #dcd0ff 2px;
+}
+
+.grid-container {
+  display: grid;
+  justify-content: center;
+}
+
+.links {
+  max-width: 30%;
+}
